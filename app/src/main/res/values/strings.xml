@@ -1,0 +1,11 @@
+<resources>
+    <string name="profile_photo_desc">Foto developer</string>
+    <string name="profile_name">Eko Cahyo</string>
+    <string name="nim">NIM: 6304240027</string>
+    <string name="profile_email">Email: ekoo200619@email.com</string>
+    <string name="profile_phone">No HP: 082289056369</string>
+    <string name="profile_prodi">Prodi: Rekayasa Perangkat Lunak</string>
+    <string name="profile_jurusan">Jurusan: Teknik Informatika</string>
+    <string name="profile_campus">Perguruan Tinggi: Politeknik Negeri Bengkalis</string>
+</resources>
+
